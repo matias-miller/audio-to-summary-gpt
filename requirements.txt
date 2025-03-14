@@ -1,0 +1,10 @@
+openai-whisper
+ffmpeg-python
+requests
+mock
+python-dotenv
+# Provider-specific requirements (install as needed)
+openai==0.28
+anthropic
+google-generativeai
+requests
