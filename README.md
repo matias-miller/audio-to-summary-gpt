@@ -16,6 +16,7 @@
 ---
 
 ## File Structure
+```
 audio-to-summary-gpt/
 ├── backend/ # Backend logic and utilities
 ├── .gitignore # Specifies files to ignore in version control
@@ -28,7 +29,7 @@ audio-to-summary-gpt/
 ├── setup.py # Setup script for the project
 ├── test_main.py # Test cases for the main functionality
 └── transcriber.py # Handles audio-to-text transcription
-
+```
 ---
 
 ## Supported LLM Models
