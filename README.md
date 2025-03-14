@@ -37,7 +37,8 @@ audio-to-summary-gpt/
 The tool currently supports the following LLM models:
 - OpenAI GPT
 - Anthropic Claude
-- Cohere
+- Gemini
+- xAi
 - (Add more as supported)
 
 ---
