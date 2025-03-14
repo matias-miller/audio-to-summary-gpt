@@ -3,7 +3,6 @@ from unittest.mock import patch, MagicMock
 import sys
 import os
 
-# Assuming your script is named transcriber_script.py
 import main
 
 
