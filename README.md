@@ -60,7 +60,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 3. Submit a pull request with a detailed description of your changes.
 
 ---
-
-# AudioToSummaryGPT
-
-**AudioToSummaryGPT** is the core functionality of this tool, enabling users to transform audio and video content into summarized text with ease. Leveraging cutting-edge LLM AI models, it ensures accurate transcription and summarization for a variety of use cases.
